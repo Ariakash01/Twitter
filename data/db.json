@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "my 1 post",
+      "date": "july 01,2023 11:17:36 AM",
+      "body": "I am studying .so i schedule my work"
+    },
+    {
+      "id": 2,
+      "title": "my 2 ",
+      "date": "September 03,2023 8:49:17 AM",
+      "body": "I am"
+    },
+    {
+      "id": 3,
+      "title": "dsqdexdd",
+      "date": "September 03,2023 8:49:46 AM",
+      "body": "edwedd"
+    },
+    {
+      "id": 4,
+      "title": "zASe",
+      "date": "September 03,2023 8:49:58 AM",
+      "body": "seqQ"
+    },
+    {
+      "id": 5,
+      "title": "SSE",
+      "date": "September 03,2023 8:50:04 AM",
+      "body": "sqEQse"
+    },
+    {
+      "id": 6,
+      "title": "qwed",
+      "date": "September 03,2023 8:50:09 AM",
+      "body": "QDFqd"
+    },
+    {
+      "id": 7,
+      "title": ".,nm,",
+      "date": "September 19,2023 9:43:35 PM",
+      "body": ",bjm,b,"
+    }
+  ]
+}
